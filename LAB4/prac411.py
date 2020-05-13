@@ -10,6 +10,7 @@ m=[]
 
 def user():
     
+	print ("User")
     name=input("Enter the name")
     name.upper()
     name=str1(name)             #name of user
